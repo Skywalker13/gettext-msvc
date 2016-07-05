@@ -24,9 +24,9 @@ Instructions
 
 1. Clone this repository or extract a zipped version of it somewhere.
 
-2. Download gettext-0.19.4.tar.gz from
+2. Download gettext-0.19.8.1.tar.xz from
 
-     http://ftp.gnu.org/gnu/gettext/gettext-0.19.4.tar.gz
+     http://ftp.gnu.org/gnu/gettext/gettext-0.19.8.1.tar.xz
 
    and libiconv-1.14.tar.gz from
 
